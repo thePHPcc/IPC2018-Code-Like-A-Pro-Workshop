@@ -3,6 +3,5 @@
 /.settings
 /.idea
 /build
-/tools
 /vendor
 cache.properties
